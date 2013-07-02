@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1369888498 source:e:\kuliah\ptik\semester4\sistem cerdas\project\perceptronfinished\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
